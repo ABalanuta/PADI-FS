@@ -1,0 +1,8 @@
+C:\Users\Artur\TFS\PADIFS\Client\bin\Debug\Client.exe.config
+C:\Users\Artur\TFS\PADIFS\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Artur\TFS\PADIFS\Client\bin\Debug\Client.exe
+C:\Users\Artur\TFS\PADIFS\Client\bin\Debug\Client.pdb
+C:\Users\Artur\TFS\PADIFS\Client\bin\Debug\SharedLib.dll
+C:\Users\Artur\TFS\PADIFS\Client\bin\Debug\SharedLib.pdb
+C:\Users\Artur\TFS\PADIFS\Client\obj\Debug\Client.exe
+C:\Users\Artur\TFS\PADIFS\Client\obj\Debug\Client.pdb

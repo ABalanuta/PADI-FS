@@ -1,0 +1,8 @@
+C:\Users\Artur\TFS\PADIFS\Metadata\obj\Debug\Metadata.csprojResolveAssemblyReference.cache
+C:\Users\Artur\TFS\PADIFS\Metadata\bin\Debug\Metadata.exe.config
+C:\Users\Artur\TFS\PADIFS\Metadata\bin\Debug\Metadata.exe
+C:\Users\Artur\TFS\PADIFS\Metadata\bin\Debug\Metadata.pdb
+C:\Users\Artur\TFS\PADIFS\Metadata\bin\Debug\SharedLib.dll
+C:\Users\Artur\TFS\PADIFS\Metadata\bin\Debug\SharedLib.pdb
+C:\Users\Artur\TFS\PADIFS\Metadata\obj\Debug\Metadata.exe
+C:\Users\Artur\TFS\PADIFS\Metadata\obj\Debug\Metadata.pdb

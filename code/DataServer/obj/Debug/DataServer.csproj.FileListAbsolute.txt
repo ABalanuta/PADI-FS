@@ -1,0 +1,8 @@
+C:\Users\Artur\TFS\PADIFS\DataServer\bin\Debug\DataServer.exe.config
+C:\Users\Artur\TFS\PADIFS\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
+C:\Users\Artur\TFS\PADIFS\DataServer\bin\Debug\DataServer.exe
+C:\Users\Artur\TFS\PADIFS\DataServer\bin\Debug\DataServer.pdb
+C:\Users\Artur\TFS\PADIFS\DataServer\bin\Debug\SharedLib.dll
+C:\Users\Artur\TFS\PADIFS\DataServer\bin\Debug\SharedLib.pdb
+C:\Users\Artur\TFS\PADIFS\DataServer\obj\Debug\DataServer.exe
+C:\Users\Artur\TFS\PADIFS\DataServer\obj\Debug\DataServer.pdb

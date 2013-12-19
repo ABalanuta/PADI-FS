@@ -1,0 +1,5 @@
+C:\Users\Artur\TFS\PADIFS\SharedLib\bin\Debug\SharedLib.dll
+C:\Users\Artur\TFS\PADIFS\SharedLib\bin\Debug\SharedLib.pdb
+C:\Users\Artur\TFS\PADIFS\SharedLib\obj\Debug\SharedLib.dll
+C:\Users\Artur\TFS\PADIFS\SharedLib\obj\Debug\SharedLib.pdb
+C:\Users\Artur\TFS\PADIFS\SharedLib\obj\Debug\SharedLib.csprojResolveAssemblyReference.cache
